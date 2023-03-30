@@ -1,0 +1,34 @@
+ 	npm install -g typescript
+	
+	tsc --init
+	 
+	(powershell) 
+	     Set-ExecutionPolicy RemoteSigned 
+	  
+	npm init -y
+	   
+	npm i @types/node -D
+		
+    (tsconfig.json)
+		    "module": "nodenext",
+            "moduleResolution": "NodeNext", 
+            "target": "es2022",
+
+    (package.json)
+            "type": "module",
+
+    npm i inquirer
+    npm i --save-dev @types/inquirer
+
+    npm i inquirer
+    npm i --save-dev @types/inquirer
+    npm install chalk	
+	
+	npm i chalk-animation
+	npm i --save-dev @types/chalk-animation
+	
+	npm install banner-cli
+	
+	
+	strict null check = false
+	
